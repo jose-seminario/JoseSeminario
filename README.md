@@ -31,25 +31,11 @@ Soy estudiante de Ingeniería de Sistemas con gran interés en el desarrollo bac
 
 ---
 
-## 🏆 Trofeos de GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoseSeminario&theme=github_dark&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats (Actualizado y Estable)
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=JoseSeminario&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JoseSeminario&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <img src="https://gh-stats.com/api/streak?username=JoseSeminario&theme=github_dark&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
 ---
