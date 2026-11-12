@@ -39,7 +39,7 @@ Soy estudiante de Ingeniería de Sistemas con gran interés en el desarrollo bac
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseSeminario&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseSeminario&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
